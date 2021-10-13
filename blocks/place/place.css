@@ -1,18 +1,24 @@
 .place {
-   margin: 0 0 80px;
+  margin: 0 0 80px;
   display: grid;
   grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
-   gap: 48px 40px;
+  gap: 48px 40px;
 }
 
 .place:last-child {
   margin: 0;
 }
 
-
 @media screen and (max-width: 1024px) {
-  .place  {
+  .place {
     grid-template-columns: 440px 456px;
     gap: 48px 32px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: 340px 352px;
+    grid-gap: 48px 28px;
+    margin: 0 0 73px;
   }
 }
