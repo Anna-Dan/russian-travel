@@ -3,4 +3,8 @@
   min-height: 62%;
 }
 
-
+@media screen and (max-width: 320px) {
+  .lead__image  {
+    padding: 0 2px 0;
+  }
+}

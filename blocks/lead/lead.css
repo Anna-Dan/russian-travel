@@ -19,3 +19,10 @@
   }
 }
 
+
+@media screen and (max-width: 320px) {
+  .lead {
+    margin: 0 auto 64px;
+  }
+}
+

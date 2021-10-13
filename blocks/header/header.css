@@ -20,3 +20,10 @@
     max-width: calc(100% - 48px);
   }
 }
+
+@media screen and (max-width: 320px) {
+  .header {
+    margin: 16px auto 48px;
+    max-width: calc(100% - 32px);
+  }
+}
