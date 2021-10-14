@@ -8,13 +8,13 @@
   column-gap: 18px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 426px) and (max-width: 768px) {
   .footer {
     max-width: calc(100% - 48px);
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .footer {
    max-width: 100%;
     grid-template-columns: 1fr;
