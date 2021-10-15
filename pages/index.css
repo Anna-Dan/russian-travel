@@ -21,7 +21,7 @@
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
 @import url(../blocks/intro/__list-paragraph/intro__list-paragraph.css);
-@import url(../blocks/intro/_place/intro_place_page\ .css);
+@import url(../blocks/intro/_place/intro_place_page.css);
 /*Галерея*/
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
@@ -41,11 +41,8 @@
 @import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/cover/__title/cover__title.css);
-
 /*Подвал*/
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__menu/footer__menu.css);
 @import url(../blocks/footer/__menu-list/footer__menu-list.css);
-@import url(../blocks/footer/__menu-item/footer__menu-item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
