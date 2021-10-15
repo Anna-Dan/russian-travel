@@ -37,9 +37,11 @@
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 /*До Байкала «на собаках»*/
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/_place/cover_place_page.css);
 @import url(../blocks/cover/__link/cover__link.css);
-@import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__title/cover__title.css);
+
 /*Подвал*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__menu/footer__menu.css);

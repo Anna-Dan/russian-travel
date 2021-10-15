@@ -1,0 +1,9 @@
+.cover_place_page {
+  margin: 0 auto 92px;
+}
+
+@media screen and (max-width: 425px) {
+  .cover_place_page {
+    margin: 0 auto 64px;
+  }
+}

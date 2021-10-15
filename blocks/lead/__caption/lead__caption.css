@@ -8,7 +8,7 @@
   align-self: flex-start;
 }
 
-@media screen and (min-width: 426px) and (max-width: 768px) {
+@media screen and (min-width: 426px) and (max-width: 940px) {
   .lead__caption {
     margin-left: 24px;
   }
