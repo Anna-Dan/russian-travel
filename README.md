@@ -1,22 +1,31 @@
-# **Путешествие по России**
+# Путешествия по России
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-(https://anna-dan.github.io/russian-travel/)
+##  Описание
 
-## Автор: Анна Даниленко
+Это сайт с отзывчивой адаптивной версткой о местах в России. 
 
-## _Проект о путешествии по России._
+## Применяемые технологии
 
-Проэкт выполнен в рамках практической части обучения в [Яндекс Практикум](https://practicum.yandex.ru/)
+– Semantic HTML layout
 
----
+– BEM methodology
 
-В реализации применены:
+– CSS
 
-- Флексбокс-верстка
-- Grid
-- Методология БЭМ
-- Файловая структура Nested
+– flex и grid верстка
 
-**Figma**
+## Локальная сборка и запуск проекта
 
-- [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Клонируйте репозиторий
+
+```bash
+ https://github.com/Anna-Dan/russian-travel.git
+```
+
+Откройте index.html в вашем браузере
+
+## Demo
+
+https://anna-dan.github.io/russian-travel/
